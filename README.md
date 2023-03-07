@@ -1,4 +1,4 @@
-# Yandex_Practicum_Data_Analytics
+# Yandex Practicum_Data Analytics
 Проекты курса "Аналитик данных" от Яндекс.Практикум 
 
 ## Title
