@@ -6,4 +6,4 @@
 №   | Название проекта | Описание задачи | Навыки и инструменты
 ------------- | ------------- | ------------- | -------------
 01  | [Яндекс.Музыка (базовый Python)](https://github.com/RomanTre/Yandex_Practicum_Data_Analytics/tree/main/01%20-%20%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20Python) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени и дня недели  | Pandas, Python. <br> Обработка данных, дубликаты, пропуски, логическая индексация, группировка, сортировка
-02  | Content Cell  | Content Cell  | Content Cell
+02  | [Исследование надежности заёмщиков (Предобработка данных)](https://github.com/RomanTre/Yandex_Practicum_Data_Analytics/tree/main/02%20-%20%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  | Content Cell  | Content Cell
