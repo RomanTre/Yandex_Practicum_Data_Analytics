@@ -14,5 +14,5 @@
 <br>
 
 **Применённые навыки и инструменты**
- - Python, Pandas, Seaborn, Matplotlib, NumPy, SciPy,
+ - Python, Pandas, Seaborn, Matplotlib, NumPy, SciPy, 
  - Обработка данных: дубликаты, пропуски, выбросы; визуализация, проверка статистических гипотез.
