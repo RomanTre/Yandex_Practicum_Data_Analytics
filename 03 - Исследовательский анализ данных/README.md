@@ -30,5 +30,5 @@
 <br>
 
 **Навыки и инструменты**
- - Python, Pandas, Matplotlib
+ - Python, Pandas, Matplotlib, Seaborn
  - Исследовательский анализ, визуализация данных, предобработка данных
