@@ -1,5 +1,7 @@
 # Исследование пользовательских событий агрегатора новостей для создания дашборда
 
+[Ссылка на дашборд](https://public.tableau.com/views/YP_Tableau_Project/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 **Задача**<br>
 Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей.
 
